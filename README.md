@@ -7,7 +7,9 @@
 📷 Check out my photography instagram [here](https://www.instagram.com/artby.leos/)!!  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I still don't know how to drive 😬
+  
 
+![hawaii-096](https://github.com/baller7215/baller7215/assets/71797371/9a033426-764b-4382-a731-36df45e4076c)
 
 
 
