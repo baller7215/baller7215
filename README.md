@@ -1,10 +1,15 @@
 ### Hi there! 👋  
 #### I'm Leo, a First Year CSE Student @ UC Irvine.
 
-
+🌱 I’m currently learning **Full Stack Development**
 💬 Ask me about **computer science** and **photography**  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/leonardo-siu/), [Email](mailto:lsiu2@uci.edu)  
-📷 Check out my photography instagram [here](https://www.instagram.com/artby.leos/)!!
+📷 Check out my photography instagram [here](https://www.instagram.com/artby.leos/)!!  
+😄 Pronouns: He/Him  
+⚡ Fun fact: I still don't know how to drive 😬
+
+
+
 
 <!--
 **baller7215/baller7215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
