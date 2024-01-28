@@ -2,7 +2,7 @@
 #### I'm Leo, a First Year CSE Student @ UC Irvine.
 
 🌱 I’m currently learning **Full Stack Development**
-💬 Ask me about **computer science** and **photography**  
+💬 Ask me about **computer science**, **photography**, and **sports**  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/leonardo-siu/), [Email](mailto:lsiu2@uci.edu)  
 📷 Check out my photography instagram [here](https://www.instagram.com/artby.leos/)!!  
 😄 Pronouns: He/Him  
