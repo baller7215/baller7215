@@ -1,5 +1,5 @@
 ### Hi there! 👋  
-#### I'm Leo, a First Year CSE Student @ UC Irvine.
+#### I'm Leo, a Second Year CS and Informatics double major @ UC Irvine.
 
 🌱 I’m currently learning **Full Stack Development**
 💬 Ask me about **computer science**, **photography**, and **sports**  
