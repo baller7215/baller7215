@@ -1,13 +1,13 @@
 ### Hi there! 👋  
 #### I'm Leo, a Second Year CS and Informatics double major @ UC Irvine.
 
-🌱 I’m currently learning **Full Stack Development**
-💬 Ask me about **computer science**, **photography**, and **sports**  
+🤓 I'm currently most interested in **full-stack development** and **software engineering**.  
+🌱 I’m currently learning **image processing w/ ocr** and working on **receptr**.  
+💬 Ask me about **computer science**, **photography**, and **sports**.  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/leonardo-siu/), [Email](mailto:lsiu2@uci.edu)  
 📷 Check out my photography instagram [here](https://www.instagram.com/artby.leos/)!!  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I still don't know how to drive 😬
-  
 
 ![hawaii-096](https://github.com/baller7215/baller7215/assets/71797371/9a033426-764b-4382-a731-36df45e4076c)
 
