@@ -2,7 +2,7 @@
 
 
 <!--- # 💫 About Me: --->
-🔭 I’m currently a developer @ uci oit and swe intern @ vulcan engineering solutions<br>
+🔭 I’m currently a developer @ uci oit and backend intern @ rooh<br>
 🌱 I’m currently learning full-stack, cv, ml / ai<br>
 💬 Ask me about cats, nba, photography<br>
 ⚡ Fun fact: i fall very gracefully
