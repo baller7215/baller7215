@@ -2,7 +2,13 @@
 
 
 <!--- # 💫 About Me: --->
-🔭 I’m currently a developer @ uci oit and backend intern @ rooh<br>
+🔭 here's some stuff that I'm up to right now:
+- **developer @ uci oit:** building features and speeding up data for campus tools like Spark and ScoreShare/li>
+- **backend intern @ rooh:** developing llm pipelines and taking Rooh Play's simulation conversational ai from 0 to 1 for our mvp </li>
+- **ai/ml fellow @ break through tech:** working on hands-on ml, nlp, and computer vision projects with an awesome cohort</li>
+- **full-stack swe intern @ vulcan eng solutions:** focusing on optimization, qa, and building agentic workspaces for engineering teams</li>
+- **backend + ai systems engineer @ human proximity:** engineering an app for smarter event networking with nlp and real-time matching</li>
+
 🌱 I’m currently learning full-stack, cv, ml / ai<br>
 💬 Ask me about cats, nba, photography<br>
 ⚡ Fun fact: i fall very gracefully
