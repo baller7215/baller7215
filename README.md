@@ -6,7 +6,7 @@
 - **software lead @ caretech @ uci:** leading a team building a CV-powered health app with YOLO + mobile frontend
 - **full‑stack dev @ commit the change (ctc):** shipping tools for nonprofits with React, Express.js/Node.js, and PostgreSQL
 - **backend + ai systems engineer @ human proximity:** engineering an app for smarter event networking with nlp and real-time matching</li>
-- **developer @ uci oit:** building features and speeding up data for campus tools like Spark and ScoreShare/li>
+- **developer @ uci oit:** building features and speeding up data for campus tools like Spark and ScoreShare</li>
 - **ai/ml fellow @ break through tech:** working on hands-on ml, nlp, and computer vision projects with an awesome cohort</li>
 
 🌱 i'm currently learning full-stack, cv, ml / ai<br>
