@@ -3,13 +3,14 @@
 
 <!--- # 💫 About Me: --->
 🔭 here's some stuff that I'm up to right now:
-- **software lead @ caretech @ uci:** leading a team building a CV-powered health app with YOLO + mobile frontend
+- **swe intern @ walmart global tech:** building end-to-end observability and telemetry for iOS payment flows using Prometheus and Grafana while shipping an automated Jira-to-PR agent via the Claude SDK
+- **software lead @ caretech:** leading team to build an AI nutrition platform (Next.js) powered by a custom 250+ class YOLO pipeline
 - **full‑stack dev @ commit the change (ctc):** shipping tools for nonprofits with React, Express.js/Node.js, and PostgreSQL
 - **backend + ai systems engineer @ human proximity:** engineering an app for smarter event networking with nlp and real-time matching</li>
 - **developer @ uci oit:** building features and speeding up data for campus tools like Spark and ScoreShare</li>
 - **ai/ml fellow @ break through tech:** working on hands-on ml, nlp, and computer vision projects with an awesome cohort</li>
 
-🌱 i'm currently learning full-stack, cv, ml / ai<br>
+🌱 i'm currently learning swift, full-stack infra, and product-facing AI orchestration<br>
 💬 ask me about cats, nba, photography<br>
 ⚡ fun fact: i fall very gracefully
 
